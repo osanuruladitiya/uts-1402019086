@@ -13,9 +13,9 @@
 <header>
 	<div class="tampilan">
     <div class="awal">
-    	<hl><a href="home.html">EDU COVID</a></hl>
+    	<hl><a href="index.php">EDU COVID</a></hl>
       <ul>
-        <li><a href="home.html">Beranda</a></li>
+        <li><a href="index.php">Beranda</a></li>
         <li><a href="pencegahan.html">Pencegahan Covid-19</a></li>
         <li><a href="data.html">Data dan Statistik</a></li>
         <li><a href="kuis.html">Kuis</a></li>
